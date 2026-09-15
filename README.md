@@ -1,5 +1,12 @@
 # go-hello-world
 
+Uninstall
+
+```
+
+$ rm $GOPATH/bin/go-hello-world
+```
+
 Install
 
 ```
